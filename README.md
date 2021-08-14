@@ -8,6 +8,8 @@ pip install -r requirements.txt
 
 активация linux:
 source venv/bin/activate
+windows:
+source venv/Scripts/activate 
 
 
 
